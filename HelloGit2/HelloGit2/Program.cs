@@ -11,7 +11,7 @@ namespace HelloGit2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub 2");
-            Console.WriteLine("Hello from the other side");
+            Console.WriteLine("Hello from the other");
         }
     }
 }
